@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lib-reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Call_Number">索書號</string>
+    <string name="Book_Status">借閱狀態</string>
+    <string name="book_name">書名</string>
+
+</resources>
